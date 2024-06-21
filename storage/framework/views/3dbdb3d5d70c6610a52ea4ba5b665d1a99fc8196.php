@@ -28,7 +28,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #d5d4d4;
+  background-color: #fff;
   min-width: 150px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
