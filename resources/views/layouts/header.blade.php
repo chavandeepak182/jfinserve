@@ -215,7 +215,7 @@ header .header-top .header-info-right ul li img {
                         </li>-->
                         <li class="nav-item">
                         <div class="dropdown">
-                            <a href="{{config('app.baseURL')}}/services" class="nav-link dropdown-toggle" role="button">Categories</a><i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="true" data-bs-toggle="dropdown"></i>
+                            <a href="{{config('app.baseURL')}}/services" class="nav-link dropdown-toggle" role="button">SERVICE</a><i class="arrow_carrot-down_alt2 mobile_dropdown_icon" aria-hidden="true" data-bs-toggle="dropdown"></i>
                             <div class="dropdown-content">
                             <a href="{{config('app.baseURL')}}/home-loan" class="nav-link" role="button">Home Loan</a>
                             <a href="{{config('app.baseURL')}}/contract-loan" class="nav-link" role="button">Contract Loan</a>
